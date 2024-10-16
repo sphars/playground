@@ -1,0 +1,17 @@
+{
+    "semi": true,
+    "tabWidth": 4,
+    "useTabs": false,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "overrides": [
+        {
+            "files": "*.config.js",
+            "options": {
+                "tabWidth": 2,
+                "printWidth": 80
+            }
+        }
+    ]
+}

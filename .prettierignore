@@ -1,0 +1,6 @@
+# Ignore everything
+/**/*.*
+
+# But allow only javascript
+!/**/*.js
+!/**/*.config.js

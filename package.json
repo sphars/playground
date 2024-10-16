@@ -1,0 +1,12 @@
+{
+    "name": "prettier-testing",
+    "scripts": {
+      "generate": "node script.js",
+      "pretty": "npx prettier . --check",
+      "pretty:write": "npx prettier . --write"
+    },
+    "devDependencies": {
+      "prettier": "3.3.3"
+    }
+  }
+  
